@@ -49,22 +49,24 @@ The interactive dashboard formed in the PowerBI will help the manager analyse wh
 
 # Insights
 
-A single page report was created on Power BI Desktop & it was then published to Power BI Service.
+A dual page report was created on Power BI Desktop & it was then published to Power BI Service.
 
 Following inferences can be drawn from the dashboard;
 
-### [1] Total Number of Customers = 129880
+### [1] Contribution to Total Profit by Category
 
-   Number of satisfied Customers (Male) = 28159 (21.68 %)
+   50.79% of the total profit comes from Technologies
 
-   Number of satisfied Customers (Female) = 28269 (21.76 %)
+   42.77% of the total profit comes from Office Supplies
 
-   Number of neutral/unsatisfied customers (Male) = 35822 (27.58 %)
-
-   Number of neutral/unsatisfied customers (Female) = 37630 (28.97 %)
+   6.44% of the total profit comes from Furniture
 
 
-           thus, higher number of customers are neutral/unsatisfied.
+
+        Since, a significantly small number of contribution to the total profit
+        is made by the Furniture Category, it could be advised to stop the furniture
+        supply and put more emphasis on the rest two categories in order to get
+        more efficeiency in the business.
            
 ### [2] Average Ratings
 
