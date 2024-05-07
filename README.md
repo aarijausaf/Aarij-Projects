@@ -70,4 +70,7 @@ Following inferences can be drawn from the dashboard;
            
 ### [2] Discount Distribution
 
-    By the bar graph illustration, it is clearly evident that Technology which contributes highest to the total profit gives out the least number of discount to the customers, hence, stating that technology goods make their own demand. While on the other hand, furniture which doesn't have a significant contribution to the total profit takes a significant amount of discount's share.
+    By the bar graph illustration, it is clearly evident that Technology which contributes highest to the 
+    total profit gives out the least number of discount to the customers, hence, stating that technology goods 
+    make their own demand. While on the other hand, furniture which doesn't have a significant contribution to
+    the total profit takes a significant amount of discount's share.
